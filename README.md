@@ -604,7 +604,7 @@ See [CHANGELOG.md](CHANGELOG.md) for full version history.
 **Xaynx**
 
 - GitHub: [@xaynx](https://github.com/Xaynxofficial)
-- Project: [XaynxAI](https://github.com/xaynx/xaynxai)
+- Project: [XaynxAI]([https://github.com/xaynx/xaynxai](https://github.com/Xaynxofficial/ai-agent-orchestration-framework))
 
 > Update the links above with your actual GitHub username and repository URL after publishing.
 

@@ -1,0 +1,43 @@
+{
+  "user_profile": {
+    "name": null,
+    "interests": [],
+    "skills": [],
+    "goals": [],
+    "preferred_tone": "adaptive",
+    "expertise_level": "unknown"
+  },
+
+  "projects": [
+    {
+      "id": "project_1",
+      "name": null,
+      "description": null,
+      "status": "active",
+      "goals": [],
+      "stack": [],
+      "progress": 0,
+      "last_updated": null
+    }
+  ],
+
+  "preferences": {
+    "response_style": "structured",
+    "detail_level": "adaptive",
+    "coding_style": "clean_and_professional",
+    "decision_style": "analytical"
+  },
+
+  "interaction_summary": {
+    "total_sessions": 0,
+    "main_topics": [],
+    "recent_focus": [],
+    "last_interaction": null
+  },
+
+  "knowledge_flags": {
+    "likes_deep_analysis": true,
+    "prefers_structured_output": true,
+    "allows_proactive_suggestions": true
+  }
+}

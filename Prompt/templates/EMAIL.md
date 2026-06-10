@@ -1,0 +1,4 @@
+Greeting
+Purpose
+Details
+Closing
